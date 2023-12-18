@@ -1,5 +1,4 @@
-```markdown
-# Weather-API
+Weather-API
 
 Weather-API is a web application that retrieves real-time weather information using the Weatherbit API. Users are prompted to provide their own Weatherbit API key along with their country and city to receive current weather data.
 
