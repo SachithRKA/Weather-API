@@ -6,17 +6,37 @@ Weather-API is a web application that retrieves real-time weather information us
 
 We utilize a developmental API key that is valid for 18 days only. To ensure long-term functionality and personal usage, users must supply their own API key from Weatherbit.
 
-## Features
+## Example Usage
 
-The app provides the following weather information:
+### Input from User
 
-- Temperature (e.g., 6.1°C)
-- Air Quality Index (e.g., 37)
-- Date and Time of Observation (e.g., 2023-12-18 19:17)
-- Weather Description (e.g., Light rain)
-- Wind (e.g., 4.6 km/h west)
-- Humidity (e.g., 78%)
-- Precipitation (e.g., 0 mm)
+Users are required to enter the following details to retrieve weather information:
+
+- **API_KEY**: Your personal API key from Weatherbit.
+- **Country**: The two-letter country code (e.g., 'CA' for Canada).
+- **City**: The name of the city (e.g., 'Toronto').
+
+Once the details are entered, clicking the `GET` button will fetch the weather data.
+
+![Input Form](![image](https://github.com/SachithRKA/Weather-API/assets/147006220/816fad51-4165-4715-a1a0-6e34c1f0ace7)
+)
+
+### Output to User
+
+The application will display the following weather details:
+
+- **Temperature**: The current temperature.
+- **Air Quality Index**: The local air quality index.
+- **Date and Time of Observation**: When the data was observed.
+- **Weather Description**: A brief description of the current weather.
+- **Wind**: The wind speed and direction.
+- **Humidity**: The current humidity percentage.
+- **Precipitation**: The current precipitation in millimeters.
+
+Here is an example of the output provided after a user submits their query:
+
+![Weather Data Display](![image](https://github.com/SachithRKA/Weather-API/assets/147006220/b8c2e593-d476-4396-8b17-8d7e72d1d295)
+)
 
 ## Getting Started
 
