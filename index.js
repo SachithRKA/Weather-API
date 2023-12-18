@@ -5,9 +5,6 @@ import axios from "axios";
 const app = express();
 const port = 3000;
 const API_URL = "https://api.weatherbit.io/v2.0/current";
-//const API_key = "d8d318e7ce254f24ae73fdd5cd4d31c2";
-//const CITY = "Toronto";
-//const COUNTRY_CODE = "CA";
 
 app.use(express.static("public"));
 app.use(bodyParser.urlencoded({ extended: true }));
