@@ -18,7 +18,7 @@ Users are required to enter the following details to retrieve weather informatio
 
 Once the details are entered, clicking the `GET` button will fetch the weather data.
 
-![Input Form](![image](https://github.com/SachithRKA/Weather-API/assets/147006220/816fad51-4165-4715-a1a0-6e34c1f0ace7)
+![Input Form](![image](Input.jpg)
 )
 
 ### Output to User
@@ -35,7 +35,7 @@ The application will display the following weather details:
 
 Here is an example of the output provided after a user submits their query:
 
-![Weather Data Display](![image](https://github.com/SachithRKA/Weather-API/assets/147006220/b8c2e593-d476-4396-8b17-8d7e72d1d295)
+![Weather Data Display](![image](Output.jpg)
 )
 
 ## Getting Started
