@@ -18,7 +18,7 @@ Users are required to enter the following details to retrieve weather informatio
 
 Once the details are entered, clicking the `GET` button will fetch the weather data.
 
-![Input Form](![image](Input.jpg)
+![Input Form](![image](Input.JPG)
 )
 
 ### Output to User
@@ -35,7 +35,7 @@ The application will display the following weather details:
 
 Here is an example of the output provided after a user submits their query:
 
-![Weather Data Display](![image](Output.jpg)
+![Weather Data Display](![image](Output.JPG)
 )
 
 ## Getting Started
