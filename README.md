@@ -48,7 +48,7 @@ Ensure you have [Node.js](https://nodejs.org/en/) installed on your machine.
 
 1. Clone the repository:
    ```
-   git clone [[link to repository](https://github.com/SachithRKA/Weather-API.git).
+   git clone [link to repository](https://github.com/SachithRKA/Weather-API.git).
    ```
 2. Navigate to the project directory:
    ```
